@@ -35,10 +35,10 @@ public class EjemploPatron {
      */
     public static void main(String[] args) throws SQLException {
         
-        EmployeeDAO employee = new EmployeeDAO();
+     /*   EmployeeDAO employee = new EmployeeDAO();
         Employee empleado = null;
         demo1 demo = new demo1();
-        demo = demo1();
+        demo = demo1(); */
        /* Connection connection = null;
         try {
             connection = ConnectionFactory.getConnection();
